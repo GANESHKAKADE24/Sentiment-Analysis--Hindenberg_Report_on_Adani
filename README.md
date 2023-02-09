@@ -20,6 +20,8 @@ Various steps in completing project are
 
 ![image](https://user-images.githubusercontent.com/113114746/217746251-e61c808e-db30-4e7a-941c-a7ed7ba467ea.png)
 
+# WordCloud 
+![image](https://user-images.githubusercontent.com/113114746/217825145-2cc50f5d-7516-44c6-b2dc-d11b0482e935.png)
 
 # Conclusion:
 - 1- We have imported  tweets using SNScraping module regarding Hindenberg Report for Adani
